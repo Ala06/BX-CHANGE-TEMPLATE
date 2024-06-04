@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sampler/icons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sampler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sampler/src/main/java/atlantafx/sampler/page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sampler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sampler/src/package-scripts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/styles/dist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/styles/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/styles/src/main/java" charset="UTF-8" />
+  </component>
+</project>

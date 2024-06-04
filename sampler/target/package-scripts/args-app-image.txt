@@ -1,0 +1,5 @@
+--type app-image
+--module "atlantafx.sampler/atlantafx.sampler.Launcher"
+--module-path "C:\\Users\\alaab\\Desktop\\bx change\\BX-CHANGE-TEMPLATE\\sampler\\target\\dependencies"
+--runtime-image "C:\\Users\\alaab\\Desktop\\bx change\\BX-CHANGE-TEMPLATE\\sampler\\target\\runtime-image"
+--dest "C:\\Users\\alaab\\Desktop\\bx change\\BX-CHANGE-TEMPLATE\\sampler\\target\\app-image"

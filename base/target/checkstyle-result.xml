@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.6.0">
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\BehaviorBase.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\BehaviorSkinBase.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\Breadcrumbs.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\BreadcrumbsSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\Calendar.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\CalendarBehavior.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\CalendarSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\CaptionMenuItem.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\Card.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\CardSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\CustomTextField.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\CustomTextFieldSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\MaskTextField.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\Message.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\MessageSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\ModalPane.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\ModalPaneSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\Notification.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\NotificationSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\package-info.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\PasswordTextField.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\Popover.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\PopoverSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\ProgressSliderSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\RingProgressIndicator.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\RingProgressIndicatorSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\SlotListener.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\Spacer.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\Tile.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\TileBase.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\TileSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\TileSkinBase.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\ToggleSwitch.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\controls\ToggleSwitchSkin.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\layout\DeckPane.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\layout\InputGroup.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\layout\ModalBox.java">
+<error line="170" severity="warning" message="Javadoc comment at column 36 has parse error. Details: mismatched input &apos;.&apos; expecting &lt;EOF&gt; while parsing JAVADOC" source="com.puppycrawl.tools.checkstyle.checks.javadoc.AtclauseOrderCheck"/>
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\layout\package-info.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\CupertinoDark.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\CupertinoLight.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\Dracula.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\NordDark.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\NordLight.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\package-info.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\PrimerDark.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\PrimerLight.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\Styles.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\Theme.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\ThemeCompiler.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\theme\Tweaks.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\Animations.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\BBCodeHandler.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\BBCodeParser.java">
+<error line="59" severity="warning" message="Javadoc comment at column 54 has parse error. Details: mismatched input &apos;.&apos; expecting &lt;EOF&gt; while parsing JAVADOC" source="com.puppycrawl.tools.checkstyle.checks.javadoc.AtclauseOrderCheck"/>
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\DoubleStringConverter.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\IntegerStringConverter.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\MaskChar.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\MaskTextFormatter.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\package-info.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\PasswordTextFormatter.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\PlatformUtils.java">
+</file>
+<file name="C:\Users\alaab\Downloads\atlantafx-master\atlantafx-master\base\src\main\java\atlantafx\base\util\SimpleMaskChar.java">
+</file>
+</checkstyle>

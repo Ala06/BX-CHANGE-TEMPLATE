@@ -1,0 +1,5 @@
+--name "AtlantaFX"
+--icon "C:\\Users\\alaab\\Desktop\\bx change\\BX-CHANGE-TEMPLATE\\sampler\\target\\app-icon.ico"
+--app-version "2.0.1"
+--temp "C:\\Users\\alaab\\Desktop\\bx change\\BX-CHANGE-TEMPLATE\\sampler\\target\\package-temp"
+--verbose
